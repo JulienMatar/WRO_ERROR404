@@ -2,7 +2,8 @@
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
 
 # Content
-t-photos contains 2 photos of the team (an official one and one funny photo with all team members)
+# t-photos 
+contains 2 photos of the team (an official one and one funny photo with all team members)
 # v-photos 
 contains 6 photos of the vehicle (from every side, from top and bottom)
 # video
