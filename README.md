@@ -14,6 +14,7 @@ This part must be filled by participants with the technical clarifications about
 # WRO Future Engineers 2026 — Team ERROR404
 
 **Team members:** Julien Matar, Ali Kholindy
+
 **Category:** WRO Future Engineers — Self-Driving Cars Challenge, Season 2026
 
 This repository contains the engineering documentation, source code, electromechanical
